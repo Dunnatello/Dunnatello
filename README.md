@@ -6,7 +6,7 @@
 - 🧐 Interested in Game & Simulation Development, User Interface Design, and Game Artificial Intelligence
 
 ## ⛏️ Technologies & Tools
-These are some of the technologies and tools that I work with:
+These are some of the technologies and tools that I have worked with:
 - Languages: C#, C++, Lua, Python, SQL
 - Engines/SDKs: Unity, Solar2D
 - Other Skills: Leadership, Project Management, Proofreading, Technical Writing
