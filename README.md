@@ -1,6 +1,8 @@
 ### Hello there 🌊
 <p>I'm an aspiring game developer and I'm passionate about creating the best possible experiences that I can. Currently, I specialize in Unity game development, but I am looking to try Unreal Engine when the need arises.</p>
 
+I'm open to collaborate on new game development projects, so feel free to contact me and we can discuss further.
+
 ## ⭐ Quick Overview
 - 💼 Currently a Computer Science College Student
 - 🧐 Interested in Game & Simulation Development, User Interface Design, and Game Artificial Intelligence
