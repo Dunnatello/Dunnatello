@@ -4,7 +4,7 @@
 I'm open to collaborate on new game development projects, so feel free to contact me and we can discuss further.
 
 ## ⭐ Quick Overview
-- 💼 Currently a Computer Science College Student
+- 🎓 Bachelor of Science (B.S.), Computer Science
 - 🧐 Interested in Game & Simulation Development, User Interface Design, and Game Artificial Intelligence
 
 ## ⛏️ Technologies & Tools
