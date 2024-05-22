@@ -9,7 +9,7 @@ I'm open to collaborate on new game development projects, so feel free to contac
 
 ## ⛏️ Technologies & Tools
 These are some of the technologies and tools that I have worked with:
-- Languages: C#, C++, Lua, Python, SQL
+- Languages: C#, C++, Lua, Java, Python, SQL
 - Engines/SDKs: Unity, Solar2D
 - Other Skills: Leadership, Project Management, Proofreading, Technical Writing
 
