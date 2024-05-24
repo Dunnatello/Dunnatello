@@ -17,7 +17,7 @@ These are some of the technologies and tools that I have worked with:
 ## 🚀 Projects
 <p>Here are a few of my published projects:</p>
 
-### 1. [XR Training Simulation for Teacher Education](https://dunnatello.github.io/XRSimulation)
+### 1. [XR Training Simulation for Teacher Education](https://dunnatello.com/Projects/XRSimulation)
 <p><i>XR Training Simulation for Teacher Education</i> is a classroom de-escalation training simulation software designed by myself and my other group members for our senior capstone project. This project features advanced animation systems and complex narrative design.</p>
 
 ### 2. [Asteroid Crashers](https://github.com/Dunnatello/AsteroidCrashers/)
