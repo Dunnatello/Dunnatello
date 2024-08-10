@@ -31,4 +31,4 @@ These are some of the technologies and tools that I have worked with:
 
 <b>You can find more information on my portfolio [here](https://dunnatello.com).</b>
 ## 📨 Contact Me
-If you would like to reach out to me, you can contact me via email [here](mailto:dunnatelloyt@gmail.com).
+If you would like to reach out to me, you can contact me via email [here](mailto:dunnatello@dunnatello.com).
