@@ -1,3 +1,5 @@
+<p align="center"><img src="Header.png" /></p>
+
 ### Hello there 🌊
 <p>I'm an aspiring game developer and I'm passionate about creating the best possible experiences that I can. Currently, I specialize in Unity game development, but I am looking to try Unreal Engine when the need arises.</p>
 
