@@ -22,13 +22,16 @@ These are some of the technologies and tools that I have worked with:
 ### 1. [XR Training Simulation for Teacher Education](https://dunnatello.com/Projects/XRSimulation)
 <p><i>XR Training Simulation for Teacher Education</i> is a classroom de-escalation training simulation software designed by myself and my other group members for our senior capstone project. This project features advanced animation systems and complex narrative design.</p>
 
-### 2. [Asteroid Crashers](https://github.com/Dunnatello/AsteroidCrashers/)
+### 2. [Tropical Tac Toe](https://github.com/Dunnatello/TropicalTacToe)
+<p><i>Tropical Tac Toe</i> is a small tic tac toe Unity game project that I developed that features the Minimax AI algorithm as well as demonstrates my user interface design skills.</p>
+
+### 3. [Asteroid Crashers](https://github.com/Dunnatello/AsteroidCrashers/)
 <p><i>Asteroid Crashers</i> is a game designed by myself along with my other group members for our Secure Software Engineering university course. This project demonstrates how an anti-cheat system can be implemented into a Unity game.</p>
 
-### 3. [Visions](https://github.com/Dunnatello-DifferentFusion/Visions)
+### 4. [Visions](https://github.com/Dunnatello-DifferentFusion/Visions)
 <p><i>Visions</i> is a game designed by myself and my friend for our Advanced Game & Simulation Development course. This project demonstrates ballistic weapon physics in a endless zombie shooter Unity game.</p>
 
-### 4. [Burn it Up!](https://github.com/Dunnatello/BurnItUp)
+### 5. [Burn it Up!](https://github.com/Dunnatello/BurnItUp)
 <p><i>Burn it Up!</i> is a weight loss app designed by myself along with my other group members for our Software Engineering Principles course project. In this project, we implemented a weight loss application in Solar2D/Lua.</p>
 
 <b>You can find more information on my portfolio [here](https://dunnatello.com).</b>
