@@ -11,8 +11,9 @@ I'm open to collaborate on new game development projects, so feel free to contac
 
 ## ⛏️ Technologies & Tools
 These are some of the technologies and tools that I have worked with:
-- Languages: C#, C++, Lua, Java, Python, SQL
+- Languages: C#, C/C++, Lua, Java, Python, SQL
 - Web Development: HTML, CSS, ASP.NET Core/C# with Azure Cloud Hosting
+- Cross-Platform Desktop/Server Development: ASP.NET Core Web API (WebSockets), .NET MAUI Blazor Hybrid, WPF, WinUI
 - Engines/SDKs: Unity, Solar2D
 - Other Skills: Leadership, Project Management, Proofreading, Technical Writing
 
