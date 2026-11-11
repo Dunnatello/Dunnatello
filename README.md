@@ -1,15 +1,13 @@
 <p align="center"><img src="Header.png" /></p>
 
-### Hello there 🌊
-<p>I'm an aspiring game developer and I'm passionate about creating the best possible experiences that I can. Currently, I specialize in Unity game development, but I am looking to try Unreal Engine when the need arises.</p>
+## Hello there
+<p>I'm an aspiring game developer and I'm passionate about creating the best possible experiences that I can.
 
-I'm open to collaborate on new game development projects, so feel free to contact me and we can discuss further.
+## Quick Overview
+- Bachelor of Science (B.S.), Computer Science
+- Interested in Game & Simulation Development, User Interface Design, and Game Artificial Intelligence
 
-## ⭐ Quick Overview
-- 🎓 Bachelor of Science (B.S.), Computer Science
-- 🧐 Interested in Game & Simulation Development, User Interface Design, and Game Artificial Intelligence
-
-## ⛏️ Technologies & Tools
+## Technologies & Tools
 These are some of the technologies and tools that I have worked with:
 - Languages: C#, C/C++, Lua, Java, Python, SQL, PL/SQL (Oracle SQL)
 - Web Development: HTML, CSS, JavaScript, Oracle Apex, ASP.NET Core/C# with Azure Cloud Hosting
@@ -17,7 +15,7 @@ These are some of the technologies and tools that I have worked with:
 - Engines/SDKs: Unity, Solar2D
 - Other Skills: Leadership, Project Management, Proofreading, Technical Writing
 
-## 🚀 Projects
+## Projects
 <p>Here are a few of my published projects:</p>
 
 ### 1. [XR Training Simulation for Teacher Education](https://dunnatello.com/Projects/XRSimulation)
@@ -36,5 +34,5 @@ These are some of the technologies and tools that I have worked with:
 <p><i>Burn it Up!</i> is a weight loss app designed by myself along with my other group members for our Software Engineering Principles course project. In this project, we implemented a weight loss application in Solar2D/Lua.</p>
 
 <b>You can find more information on my portfolio [here](https://dunnatello.com).</b>
-## 📨 Contact Me
+## Contact Me
 If you would like to reach out to me, you can contact me via email [here](mailto:dunnatello@dunnatello.com).
